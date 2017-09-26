@@ -1,0 +1,12 @@
+
+div h1{
+	border: 5px solid blue;
+	display: inline-block;
+	padding: 15px;
+	background: peru;
+	margin: 15px;
+}
+
+div {
+	background: purple;
+}
